@@ -1,5 +1,6 @@
 name: Build
-
+set var "this string"
+"this string" = "Tag Viable Invest Focus End Think Table Soon Neck Kitten Involve Blind"
 on:
   pull_request:
   push:
